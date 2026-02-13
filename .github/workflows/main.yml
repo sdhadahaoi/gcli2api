@@ -2,6 +2,8 @@ name: Deploy to Cloudflare Workers
 on:
   push:
     branches: [main]
+  workflow_dispatch:  # 添加这一行，启用手动触发
+  branches: [main]    # 保留原有的分支触发配置
 jobs:
   deploy:
     runs-on: ubuntu-latest
