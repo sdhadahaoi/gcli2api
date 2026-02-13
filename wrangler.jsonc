@@ -1,5 +1,5 @@
    {
-     "name": "gcli2api-worker",
+     "name": "gcli2api",
      "compatibility_date": "2026-02-13",
      "main": "index.ts"  // 改为 index.ts
    }
