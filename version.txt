@@ -1,4 +1,4 @@
-full_hash=084011f2f8a05e10e67100e956fef18c54486ef5
-short_hash=084011f
-message=Create index.ts
-date=2026-02-13 11:42:22 +0800
+full_hash=9959c1b0b70344b6849d0f7fb1aa8f3219c25452
+short_hash=9959c1b
+message=Change main entry file path in wrangler.jsonc
+date=2026-02-13 11:43:11 +0800
