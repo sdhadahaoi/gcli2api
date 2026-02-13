@@ -1,5 +1,6 @@
-{
-  "name": "gcli2api-worker",  // 你的 Worker 名称（可自定义，比如仓库名）
-  "compatibility_date": "2026-02-13",  // 兼容性日期（用当前日期即可）
-  "main": "src/index.ts"     // 入口文件路径（关键！需对应你的项目文件）
-}
+   {
+     "name": "gcli2api-worker",
+     "compatibility_date": "2026-02-13",
+     "main": "index.ts"  // 改为 index.ts
+   }
+   
